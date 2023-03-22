@@ -13,3 +13,7 @@ npm install
 npm run start
 npm run build
 ```
+
+### Live site
+
+URL: https://forkify-app-test.netlify.app
